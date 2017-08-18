@@ -1,0 +1,605 @@
+
+Samba version 3.6.6
+PID     Username      Group         Machine                        
+-------------------------------------------------------------------
+
+Service      pid     machine       Connected at
+-------------------------------------------------------
+Klюkva      29467   klukva-sklad  Tue Aug 15 16:05:59 2017
+1c82         5498   desktop-lera  Tue Aug 15 13:45:42 2017
+Klюkva      18884   klukvachef    Tue Aug 15 14:36:28 2017
+1c82         5568   avkassa       Tue Aug 15 12:43:09 2017
+cucina       26028   op_159        Tue Aug 15 15:38:16 2017
+avanti       20031   w7p           Tue Aug 15 14:45:24 2017
+cucina       3740   pdo5          Tue Aug 15 07:46:59 2017
+Klюkva      18431   klu3667-2     Tue Aug 15 09:52:54 2017
+cucina       4346   frolovans     Tue Aug 15 07:52:24 2017
+1c82         4987   avsklad1      Tue Aug 15 07:58:53 2017
+cu1c         4994   pdochief      Tue Aug 15 07:59:50 2017
+1c82         6143   avoopt1       Tue Aug 15 12:49:12 2017
+1c82         4917   avsale4       Tue Aug 15 07:56:40 2017
+1c82         10157   avsale5       Tue Aug 15 08:42:32 2017
+1c82         5571   avsale6       Tue Aug 15 08:04:31 2017
+IPC$         6827   dimas         Tue Aug 15 08:14:09 2017
+Klюkva      5496   cucbuh2       Tue Aug 15 10:12:05 2017
+1c82         18388   avanti-loginova  Tue Aug 15 14:33:44 2017
+cucina       4351   op-free       Tue Aug 15 07:52:50 2017
+Klюkva      15533   klu3667-1     Tue Aug 15 09:28:21 2017
+cu1c         3179   veronika      Tue Aug 15 07:42:32 2017
+IPC$         20723   cucbuh2       Tue Aug 15 10:12:13 2017
+cu1c         6174   cucbuh7       Tue Aug 15 08:08:01 2017
+1c82         5490   avmng9        Tue Aug 15 08:01:12 2017
+cu1c         6176   cucmng2       Tue Aug 15 08:08:16 2017
+cucina       5495   pdo6          Tue Aug 15 11:22:36 2017
+Klюkva      27697   op198         Tue Aug 15 11:14:27 2017
+1c82         6830   avbuha        Tue Aug 15 08:14:44 2017
+cucina       5570   suvorova      Tue Aug 15 08:04:30 2017
+cu1c         5495   pdo6          Tue Aug 15 08:02:25 2017
+1c82         4993   steklosklad   Tue Aug 15 07:59:50 2017
+1c82         7324   avsale1       Tue Aug 15 08:15:44 2017
+cucina       26024   samoilova     Tue Aug 15 15:36:31 2017
+1c82         6167   av-17         Tue Aug 15 09:23:09 2017
+1c82         9027   avzak2        Tue Aug 15 08:34:27 2017
+avanti       9027   avzak2        Tue Aug 15 08:38:29 2017
+avanti       6167   av-17         Tue Aug 15 08:06:47 2017
+Раскрой   26031   pdo2          Tue Aug 15 15:39:24 2017
+cucina       28773   hairullinrb   Tue Aug 15 11:21:02 2017
+cucina       21831   desktop-ulvm95u  Tue Aug 15 15:01:44 2017
+cu1c         5496   cucbuh2       Tue Aug 15 08:02:28 2017
+cu1c         6169   cucmng1       Tue Aug 15 08:07:04 2017
+Klюkva      13835   raul-pc       Tue Aug 15 13:53:32 2017
+1c82         4348   avbuh2        Tue Aug 15 07:52:41 2017
+Klюkva      10863   matveevvv     Tue Aug 15 13:28:45 2017
+avanti       5498   desktop-lera  Tue Aug 15 08:02:31 2017
+Klюkva      7898   smal          Tue Aug 15 08:21:50 2017
+
+Locked files:
+Pid          Uid        DenyMode   Access      R/W        Oplock           SharePath   Name   Time
+--------------------------------------------------------------------------------------------------
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/03. Март   Tue Aug 15 15:58:59 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/03. Март   Tue Aug 15 15:58:59 2017
+15533        1064       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август/Д-08.31 (ООО Страна Чудес).xlsx   Tue Aug 15 09:33:56 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CD   Tue Aug 15 08:04:42 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CD   Tue Aug 15 08:11:39 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CD   Tue Aug 15 08:12:20 2017
+4346         1028       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Оксана Камаева/12_06_2017_Бланк заказа МУ.xlsm   Tue Aug 15 16:01:17 2017
+20031        1062       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/avanti   Cтекольная/Архив Фотопечати (заявки)/4893   Tue Aug 15 14:45:25 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8Log/1Cv8.lgd   Tue Aug 15 08:04:59 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8Log/1Cv8.lgd   Tue Aug 15 08:11:53 2017
+6174         1016       DENY_ALL   0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/checkout.dat   Tue Aug 15 16:11:00 2017
+20031        1062       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/avanti   Cтекольная/Архив Фотопечати (заявки)   Tue Aug 15 14:45:24 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8Log/1Cv8.lgd   Tue Aug 15 08:08:14 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8.1CL   Tue Aug 15 07:52:41 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8.1CL   Tue Aug 15 08:14:44 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8.1CL   Tue Aug 15 08:39:04 2017
+15533        1064       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август/Д-08.215 (ООО Страна Чудес).xlsx   Tue Aug 15 10:31:20 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8tmp.1CL   Tue Aug 15 13:16:20 2017
+26028        1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Эльмира/КЛИЕНТЫ/Крамаренко МОСКВА/8.05   Tue Aug 15 15:40:04 2017
+26028        1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Эльмира/КЛИЕНТЫ/Крамаренко МОСКВА/8.05   Tue Aug 15 15:40:04 2017
+3740         1040       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ПДО/Заказы   Tue Aug 15 15:47:29 2017
+4346         1028       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ПДО/Заказы   Tue Aug 15 11:40:31 2017
+6174         1016       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8JobScheduler/exec.lck   Tue Aug 15 13:17:44 2017
+4351         1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП   Tue Aug 15 15:32:56 2017
+4351         1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП   Tue Aug 15 15:32:56 2017
+4346         1028       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ОП   Tue Aug 15 16:01:26 2017
+5570         1026       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ОП   Tue Aug 15 13:43:56 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8tmp.1CD.cfl   Tue Aug 15 13:16:20 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8tmp.1CL   Tue Aug 15 08:08:10 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Ulgran/2017/август/14.08   Tue Aug 15 14:18:43 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Ulgran/2017/август/14.08   Tue Aug 15 14:18:43 2017
+26028        1072       DENY_WRITE 0x3019f     RDWR       EXCLUSIVE+BATCH  /home/exch/cucina   ОП/Эльмира/КЛИЕНТЫ/Крамаренко МОСКВА/8.05/~$12_06_2017_Бланк заказа МУ.xlsm   Tue Aug 15 15:40:08 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/20150818000000.lgp   Tue Aug 15 08:09:04 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/20150818000000.lgp   Tue Aug 15 08:46:46 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/20150818000000.lgp   Tue Aug 15 08:47:24 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/20150818000000.lgp   Tue Aug 15 13:52:26 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/20150818000000.lgp   Tue Aug 15 13:53:01 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL   Tue Aug 15 08:08:59 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL   Tue Aug 15 08:46:33 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL   Tue Aug 15 08:47:22 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL   Tue Aug 15 13:52:22 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL   Tue Aug 15 13:52:59 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8JobScheduler/exec.lck.cfl   Tue Aug 15 08:13:04 2017
+4346         1028       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ОП/Оксана Камаева   Tue Aug 15 16:01:15 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8Log/20160205000000.lgp   Tue Aug 15 15:46:13 2017
+9027         1015       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/АРИСТО/2017/август/ГРАНД СФ накладная(1).xls   Tue Aug 15 16:06:31 2017
+21831        1065       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Бухенская Наталья/Договора   Tue Aug 15 15:26:48 2017
+21831        1065       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Бухенская Наталья/Договора   Tue Aug 15 15:26:48 2017
+4346         1028       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ПДО/Заказы/Отгрузки/2017/8 август/14-18 августа.xls   Tue Aug 15 08:10:06 2017
+18431        1070       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/klukva   Заказы/2017г/03. Март/Д-03.224.СМ29 (ФС Самара).ods   Tue Aug 15 15:59:04 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8Log/1Cv8.lgf   Tue Aug 15 14:33:48 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CD   Tue Aug 15 08:11:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CD   Tue Aug 15 08:41:16 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CD   Tue Aug 15 08:42:09 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8.1CD.cfl   Tue Aug 15 13:16:13 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8tmp.1CL.cfl   Tue Aug 15 08:08:10 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/1Cv8.lgf   Tue Aug 15 07:42:38 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:00:03 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:02:38 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:02:47 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:07:19 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:08:25 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8Log/20150310000000.lgp   Tue Aug 15 08:39:09 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ПДО/Заказы/Архив  кн-1.xls   Tue Aug 15 10:04:13 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 13:17:56 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8.1CL   Tue Aug 15 15:46:05 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8JobScheduler/exec.lck.cfl   Tue Aug 15 08:12:45 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CL.cfl   Tue Aug 15 09:50:22 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CL.cfl   Tue Aug 15 14:35:44 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/ВАЖНО/Доп.инфа/!Фигня/ОСН. тех документация.doc   Tue Aug 15 15:59:37 2017
+6167         1067       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Мебельная фурнитура(контур)/2017/июнь   Tue Aug 15 15:06:05 2017
+6167         1067       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Мебельная фурнитура(контур)/2017/июнь   Tue Aug 15 15:06:05 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8Log/1Cv8.lgd   Tue Aug 15 08:11:29 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8Log/1Cv8.lgd   Tue Aug 15 08:41:30 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:03:41 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:25:39 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:31:34 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:49:02 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:12:14 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:55:32 2017
+6174         1016       DENY_WRITE 0x20089     RDONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/cfgInfo.dat   Tue Aug 15 16:11:00 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/08. Август/Самара 19   Tue Aug 15 13:46:23 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/08. Август/Самара 19   Tue Aug 15 13:46:23 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8.1CL   Tue Aug 15 13:16:13 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8tmp.1CD.cfl   Tue Aug 15 08:39:08 2017
+6174         1016       DENY_ALL   0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/checkoutReasonFile.dat   Tue Aug 15 16:11:00 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:39:08 2017
+4346         1028       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/НОВЫЕ ПРАЙС 04.02.13/прайс на доп.компл от 12.06.17.xlsx   Tue Aug 15 08:05:24 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CL.cfl   Tue Aug 15 08:04:51 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CL.cfl   Tue Aug 15 08:11:49 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CL.cfl   Tue Aug 15 08:12:27 2017
+5495         1005       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ПДО/Заказы/заявки балясин и решёток   Tue Aug 15 13:47:41 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CD   Tue Aug 15 16:04:08 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CD   Tue Aug 15 16:07:33 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CD   Tue Aug 15 16:05:24 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CD   Tue Aug 15 16:11:01 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CD   Tue Aug 15 16:09:43 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CD   Tue Aug 15 16:09:45 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 12:43:27 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 07:53:19 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 07:56:44 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 07:59:11 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:42:51 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:01:16 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:04:36 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 13:45:47 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 09:29:55 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:15:50 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:34:32 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/1Cv8.lgf   Tue Aug 15 09:23:17 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8Log/1Cv8.lgf   Tue Aug 15 09:50:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8Log/1Cv8.lgf   Tue Aug 15 14:35:47 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8tmp.1CD   Tue Aug 15 15:22:08 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8tmp.1CD   Tue Aug 15 16:00:45 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/Учет заказов/прочее/ИП Нестеров/просчет/1.xlsm   Tue Aug 15 08:04:56 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:50:00 2017
+28773        1024       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   Хайруллин   Tue Aug 15 11:21:02 2017
+28773        1024       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   Хайруллин   Tue Aug 15 11:21:02 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Библиотеки/Схемы сборки/Junior   Tue Aug 15 15:42:09 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Библиотеки/Схемы сборки/Junior   Tue Aug 15 15:42:09 2017
+4351         1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/сканирование   Tue Aug 15 15:32:56 2017
+4351         1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/сканирование   Tue Aug 15 15:32:56 2017
+28773        1024       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/сканирование   Tue Aug 15 11:21:02 2017
+28773        1024       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/сканирование   Tue Aug 15 11:21:02 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:13:11 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:22:42 2017
+3179         1017       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 14:11:21 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:18:12 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:18:32 2017
+5496         1022       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:34:58 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CD   Tue Aug 15 08:58:55 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CD   Tue Aug 15 16:07:34 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CD   Tue Aug 15 16:11:02 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CD   Tue Aug 15 15:39:02 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CD   Tue Aug 15 14:45:44 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CD   Tue Aug 15 14:59:16 2017
+4346         1028       DENY_WRITE 0x3019f     RDWR       NONE             /home/exch/cucina   ОП/Оксана Камаева/~$Книга заказов Оксана 2017.xlsm   Tue Aug 15 08:43:35 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:12:53 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:21:32 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 13:54:25 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:17:17 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 10:34:28 2017
+5496         1022       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 16:07:34 2017
+3179         1017       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:17:24 2017
+6174         1016       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 13:54:25 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 14:40:43 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 09:19:29 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 15:35:42 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/Прайсы/Эликор   Tue Aug 15 15:06:34 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/Прайсы/Эликор   Tue Aug 15 15:06:34 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/Учет заказов/Книга Заказов 2016 Екатерина.xlsm   Tue Aug 15 14:59:27 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Kessebohmer/2017/август   Tue Aug 15 14:18:43 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Kessebohmer/2017/август   Tue Aug 15 14:18:43 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 12:43:25 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 07:53:19 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 07:56:44 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 07:59:11 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 08:42:51 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 08:01:16 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 08:04:36 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 13:45:46 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 09:29:52 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 08:15:49 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 08:34:30 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CL   Tue Aug 15 09:23:16 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CL   Tue Aug 15 08:11:18 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CL   Tue Aug 15 08:41:10 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CL   Tue Aug 15 08:42:02 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:01:36 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:57:19 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 13:03:23 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 13:23:59 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 10:29:09 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8.1CL.cfl   Tue Aug 15 13:16:13 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 10:21:53 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:11:04 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/Таблица клиентов потенциальных.xlsx   Tue Aug 15 13:43:28 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:01:11 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 12:05:12 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:48:08 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:05:35 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:06:23 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:10:21 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:11:37 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 14:07:31 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:39:50 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:31:29 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 12:53:10 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 16:04:28 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD.cfl   Tue Aug 15 08:08:59 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD.cfl   Tue Aug 15 08:46:33 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD.cfl   Tue Aug 15 08:47:22 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD.cfl   Tue Aug 15 13:52:22 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD.cfl   Tue Aug 15 13:52:59 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CL   Tue Aug 15 07:42:38 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CL   Tue Aug 15 08:00:02 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CL   Tue Aug 15 08:02:37 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CL   Tue Aug 15 08:02:46 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CL   Tue Aug 15 08:07:18 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8tmp.1CL   Tue Aug 15 08:08:24 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8JobScheduler/exec.lck.cfl   Tue Aug 15 13:17:44 2017
+7898         1055       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/08. Август/ИП Маргиев   Tue Aug 15 16:08:29 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CL   Tue Aug 15 09:50:22 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CL   Tue Aug 15 14:35:44 2017
+5570         1026       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ОП/Екатерина/Учет заказов   Tue Aug 15 16:03:20 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CL   Tue Aug 15 14:33:48 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8.1CL.cfl   Tue Aug 15 08:08:05 2017
+5496         1022       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   БП Хайруллин/1Cv8JobScheduler/exec.lck   Tue Aug 15 08:12:45 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CL   Tue Aug 15 09:50:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CL   Tue Aug 15 14:35:47 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8.1CD.cfl   Tue Aug 15 08:08:05 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8.1CD.cfl   Tue Aug 15 08:39:04 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8Log/1Cv8.lgf   Tue Aug 15 15:46:13 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 08:13:11 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 09:18:13 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 09:18:32 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8.1CD   Tue Aug 15 13:16:13 2017
+5570         1026       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ОП/Екатерина/Учет заказов/!бланки   Tue Aug 15 16:02:53 2017
+5570         1026       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ОП/Екатерина   Tue Aug 15 11:20:59 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CL.cfl   Tue Aug 15 09:50:26 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CL.cfl   Tue Aug 15 14:35:47 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 08:47:09 2017
+4346         1028       DENY_WRITE 0x3019f     RDWR       EXCLUSIVE+BATCH  /home/exch/cucina   ОП/Оксана Камаева/~$12_06_2017_Бланк заказа МУ.xlsm   Tue Aug 15 16:01:17 2017
+6167         1067       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Мебельная фурнитура(контур)/2017   Tue Aug 15 15:05:49 2017
+6167         1067       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/Мебельная фурнитура(контур)/2017   Tue Aug 15 15:05:49 2017
+3740         1040       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ПДО/Заказы/8-3   Tue Aug 15 07:47:06 2017
+9027         1015       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/ТДП/2017/август/заказ.xlsx   Tue Aug 15 08:39:01 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD.cfl   Tue Aug 15 08:08:50 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD.cfl   Tue Aug 15 08:46:26 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD.cfl   Tue Aug 15 08:47:14 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD.cfl   Tue Aug 15 13:52:15 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD.cfl   Tue Aug 15 13:52:53 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/Прайсы/Эликор/2017   Tue Aug 15 15:06:40 2017
+5498         1078       DENY_NONE  0x81        RDONLY     NONE             /home/exch/avanti   Папка обмена/Прайсы/Эликор/2017   Tue Aug 15 15:06:40 2017
+5570         1026       DENY_WRITE 0x3019f     RDWR       EXCLUSIVE+BATCH  /home/exch/cucina   ОП/Екатерина/~$Таблица клиентов по менеджерам общие сведения.xlsx   Tue Aug 15 13:43:29 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8tmp.1CD   Tue Aug 15 13:16:20 2017
+26028        1072       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Эльмира/КЛИЕНТЫ/Крамаренко МОСКВА/8.05/12_06_2017_Бланк заказа МУ.xlsm   Tue Aug 15 15:40:07 2017
+4346         1028       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Оксана Камаева/Книга заказов Оксана 2017.xlsm   Tue Aug 15 14:52:44 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8tmp.1CL.cfl   Tue Aug 15 08:39:08 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL.cfl   Tue Aug 15 08:08:50 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL.cfl   Tue Aug 15 08:46:26 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL.cfl   Tue Aug 15 08:47:14 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL.cfl   Tue Aug 15 13:52:15 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL.cfl   Tue Aug 15 13:52:53 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CD   Tue Aug 15 16:10:31 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CD   Tue Aug 15 16:02:39 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CD   Tue Aug 15 16:07:28 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CD   Tue Aug 15 16:05:24 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CD   Tue Aug 15 16:05:14 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CL   Tue Aug 15 14:33:44 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:11:05 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:08:32 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:07:21 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 08:00:48 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 15:40:38 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:07:02 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 15:52:48 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:08:00 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:08:20 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:03:53 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 15:24:49 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8tmp.1CD   Tue Aug 15 16:04:34 2017
+5496         1022       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   БП Неверов/1Cv8JobScheduler/exec.lck   Tue Aug 15 08:13:04 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CD.cfl   Tue Aug 15 08:11:26 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CD.cfl   Tue Aug 15 08:41:16 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CD.cfl   Tue Aug 15 08:42:09 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8tmp.1CL   Tue Aug 15 08:39:08 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Библиотеки/Схемы сборки/Junior/Новая папка   Tue Aug 15 15:42:09 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Библиотеки/Схемы сборки/Junior/Новая папка   Tue Aug 15 15:42:09 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/1Cv8.lgf   Tue Aug 15 12:43:39 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/1Cv8.lgf   Tue Aug 15 07:53:43 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:42:39 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:00:00 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/1Cv8.lgf   Tue Aug 15 12:49:22 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8.1CD   Tue Aug 15 16:05:35 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8.1CD   Tue Aug 15 16:05:56 2017
+28773        1024       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Карты оплат   Tue Aug 15 11:21:02 2017
+28773        1024       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Карты оплат   Tue Aug 15 11:21:02 2017
+29467        1074       DENY_WRITE 0x20089     RDONLY     EXCLUSIVE+BATCH  /home/exch/klukva   Рекламации/2017 г/07. Июль/проспект мебели/P_20170607_100510.jpg   Tue Aug 15 16:10:54 2017
+21831        1065       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Алена/Алена   Tue Aug 15 15:30:04 2017
+21831        1065       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Алена/Алена   Tue Aug 15 15:30:04 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 11:14:27 2017
+18884        1038       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 14:58:20 2017
+18884        1038       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 14:58:20 2017
+10863        1052       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 13:28:48 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 11:14:27 2017
+10863        1052       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 13:28:48 2017
+15533        1064       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие/Диваны/Фото диванов/photo_2017-06-01_14-09-24 (2).jpg   Tue Aug 15 16:01:37 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/Таблица клиентов по менеджерам общие сведения.xlsx   Tue Aug 15 13:43:55 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие   Tue Aug 15 11:30:57 2017
+15533        1064       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие   Tue Aug 15 16:10:31 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие   Tue Aug 15 11:30:57 2017
+15533        1064       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие   Tue Aug 15 16:10:31 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август   Tue Aug 15 15:15:08 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август   Tue Aug 15 15:15:08 2017
+5496         1022       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август   Tue Aug 15 13:04:04 2017
+5496         1022       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август   Tue Aug 15 13:04:04 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август   Tue Aug 15 14:05:36 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/08. Август   Tue Aug 15 14:05:36 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/Информационные письма/Информационные письма 2017   Tue Aug 15 10:40:56 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/Информационные письма/Информационные письма 2017   Tue Aug 15 10:40:56 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/Информационные письма/Информационные письма 2017   Tue Aug 15 11:14:27 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/Информационные письма/Информационные письма 2017   Tue Aug 15 11:14:27 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CD   Tue Aug 15 09:50:22 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CD   Tue Aug 15 14:35:44 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/20130116000000.lgp   Tue Aug 15 07:42:39 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/20130116000000.lgp   Tue Aug 15 08:00:03 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/20130116000000.lgp   Tue Aug 15 08:02:39 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/20130116000000.lgp   Tue Aug 15 08:02:48 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/20130116000000.lgp   Tue Aug 15 08:07:20 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8Log/20130116000000.lgp   Tue Aug 15 08:08:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:19:29 2017
+3179         1017       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:38:26 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:35:10 2017
+5496         1022       DENY_NONE  0x20089     RDONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 15:37:49 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CD.cfl   Tue Aug 15 14:33:48 2017
+4346         1028       DENY_WRITE 0x3019f     RDWR       NONE             /home/exch/cucina   ОП/НОВЫЕ ПРАЙС 04.02.13/~$прайс на доп.компл от 12.06.17.xlsx   Tue Aug 15 08:05:28 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:08:42 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:08:32 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:08:35 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:09:27 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:09:32 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:11:05 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:11:03 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:11:04 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:09:00 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:08:32 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:11:04 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CD   Tue Aug 15 16:08:38 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Бирки/Бирки Junior   Tue Aug 15 15:33:26 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Бирки/Бирки Junior   Tue Aug 15 15:33:26 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8Log/1Cv8.lgf   Tue Aug 15 13:16:20 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 14:05:36 2017
+5496         1022       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 10:38:47 2017
+5496         1022       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 10:38:47 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 15:29:22 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 14:05:36 2017
+10863        1052       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 13:28:47 2017
+10863        1052       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 13:28:47 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 15:29:22 2017
+15533        1064       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие/Диваны/Фото диванов/photo_2017-06-01_14-09-20.jpg   Tue Aug 15 16:01:19 2017
+6167         1067       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/avanti   Папка обмена/Прайсы/АЛФ/Прайс пластик Arpa+кромка от 11.05.17.xlsx   Tue Aug 15 13:48:05 2017
+15533        1064       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА/Прайс-листы действующие/Диван Mini.docx   Tue Aug 15 15:46:38 2017
+21831        1065       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Алена   Tue Aug 15 15:26:48 2017
+21831        1065       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Алена   Tue Aug 15 15:26:48 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 08:12:53 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 09:17:18 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 10:35:48 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 10:36:35 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 14:40:44 2017
+3179         1017       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   БП Киселев/1Cv8JobScheduler/jobs.dat   Tue Aug 15 16:11:08 2017
+15533        1064       DENY_NONE  0x20089     RDONLY     EXCLUSIVE+BATCH  /home/exch/klukva   Заказы/2017г/08. Август/Д-08.200 (выставка)(ООО Проспект Мебели).xlsx   Tue Aug 15 13:39:45 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8tmp.1CD   Tue Aug 15 08:08:11 2017
+26031        1031       DENY_WRITE 0x2019f     RDWR       EXCLUSIVE+BATCH  /home/exch/Раскрой   8-3/8-3-3.xlsx   Tue Aug 15 16:11:08 2017
+5570         1026       DENY_WRITE 0x3019f     RDWR       EXCLUSIVE+BATCH  /home/exch/cucina   ОП/Екатерина/Учет заказов/~$Книга Заказов 2016 Екатерина.xlsm   Tue Aug 15 09:53:15 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/20150311000000.lgp   Tue Aug 15 12:43:40 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/20150311000000.lgp   Tue Aug 15 07:53:43 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/20150311000000.lgp   Tue Aug 15 08:42:39 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/20150311000000.lgp   Tue Aug 15 08:00:01 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8Log/20150311000000.lgp   Tue Aug 15 12:49:22 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CL   Tue Aug 15 08:04:51 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CL   Tue Aug 15 08:11:49 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CL   Tue Aug 15 08:12:27 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/01. Январь   Tue Aug 15 16:08:01 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/01. Январь   Tue Aug 15 16:08:01 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD   Tue Aug 15 08:08:59 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD   Tue Aug 15 08:46:33 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD   Tue Aug 15 08:47:22 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD   Tue Aug 15 13:52:22 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CD   Tue Aug 15 13:52:59 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CD.cfl   Tue Aug 15 08:04:51 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CD.cfl   Tue Aug 15 08:11:49 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CD.cfl   Tue Aug 15 08:12:27 2017
+6167         1067       DENY_WRITE 0x20089     RDONLY     EXCLUSIVE+BATCH  /home/exch/avanti   Папка обмена/Прайсы/АЛФ/наш АЛФ 2017г/Прайс пластик Arpa+кромка от 28.12.2016.pdf   Tue Aug 15 13:50:29 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 13:17:56 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 13:18:57 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8tmp.1CL   Tue Aug 15 07:52:46 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8tmp.1CL   Tue Aug 15 08:14:48 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8Log/20120528000000.lgp   Tue Aug 15 07:52:46 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8Log/20120528000000.lgp   Tue Aug 15 08:14:49 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 12:43:27 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 07:53:20 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 07:56:44 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 07:59:12 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 08:42:51 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 08:01:16 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 08:04:37 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 13:45:47 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 09:29:55 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 08:15:50 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 08:34:32 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8Log/20140306000000.lgp   Tue Aug 15 09:23:17 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CD.cfl   Tue Aug 15 09:50:26 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CD.cfl   Tue Aug 15 14:35:47 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8.1CD   Tue Aug 15 15:46:16 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/08. Август   Tue Aug 15 13:46:21 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/08. Август   Tue Aug 15 13:46:21 2017
+7898         1055       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/08. Август   Tue Aug 15 16:08:27 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CL   Tue Aug 15 07:42:32 2017
+4994         1032       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CL   Tue Aug 15 07:59:50 2017
+5495         1005       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CL   Tue Aug 15 08:02:25 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CL   Tue Aug 15 08:02:39 2017
+6169         1073       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CL   Tue Aug 15 08:07:04 2017
+6176         1060       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   Фасады/1Cv8.1CL   Tue Aug 15 08:08:16 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8JobScheduler/exec.lck.cfl   Tue Aug 15 08:09:40 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CD   Tue Aug 15 08:11:18 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CD   Tue Aug 15 08:41:10 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CD   Tue Aug 15 08:42:02 2017
+5570         1026       DENY_WRITE 0x3019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/~$Таблица клиентов потенциальных.xlsx   Tue Aug 15 13:43:28 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD   Tue Aug 15 08:08:50 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD   Tue Aug 15 08:46:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD   Tue Aug 15 08:47:14 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD   Tue Aug 15 13:52:15 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CD   Tue Aug 15 13:52:53 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:47:09 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8tmp.1CL.cfl   Tue Aug 15 13:16:20 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8tmp.1CD   Tue Aug 15 15:51:36 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CD   Tue Aug 15 08:04:51 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CD   Tue Aug 15 08:11:49 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8tmp.1CD   Tue Aug 15 08:12:27 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.cgr.cfl   Tue Aug 15 14:33:44 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8Log/1Cv8.lgf   Tue Aug 15 07:52:46 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:14:48 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8tmp.1CD   Tue Aug 15 08:39:08 2017
+4346         1028       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ПДО   Tue Aug 15 14:21:25 2017
+6174         1016       DENY_ALL   0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8FTxt/checkoutReasonProtect.dat   Tue Aug 15 16:11:00 2017
+29467        1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г   Tue Aug 15 16:10:58 2017
+29467        1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г   Tue Aug 15 16:10:58 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CL.cfl   Tue Aug 15 14:33:44 2017
+6174         1016       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8JobScheduler/exec.lck   Tue Aug 15 08:09:40 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Бирки/Бирки Junior/P   Tue Aug 15 15:34:02 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Технологический Отдел/Бирки/Бирки Junior/P   Tue Aug 15 15:34:02 2017
+26028        1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Эльмира/КЛИЕНТЫ/Крамаренко МОСКВА   Tue Aug 15 15:40:00 2017
+26028        1072       DENY_NONE  0x81        RDONLY     NONE             /home/exch/cucina   ОП/Эльмира/КЛИЕНТЫ/Крамаренко МОСКВА   Tue Aug 15 15:40:00 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CD.cfl   Tue Aug 15 14:33:44 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 10:21:53 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8FTxt/changes20170815000000.log.cfl   Tue Aug 15 15:11:05 2017
+5570         1026       DENY_WRITE 0x3019f     RDWR       EXCLUSIVE+BATCH  /home/exch/cucina   ОП/Екатерина/Учет заказов/прочее/ИП Нестеров/просчет/~$1.xlsm   Tue Aug 15 08:04:57 2017
+29467        1074       DENY_WRITE 0x20089     RDONLY     EXCLUSIVE+BATCH  /home/exch/klukva   Рекламации/2017 г/07. Июль/проспект мебели/P_20170607_100502.jpg   Tue Aug 15 16:10:54 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CL   Tue Aug 15 12:43:39 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CL   Tue Aug 15 07:53:43 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CL   Tue Aug 15 08:42:39 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CL   Tue Aug 15 08:00:00 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CL   Tue Aug 15 12:49:22 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   GlassDirector/1Cv8tmp.1CL   Tue Aug 15 15:46:13 2017
+7898         1055       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   ~$График. EXCEL ONLY..xlsm   Tue Aug 15 15:55:43 2017
+15533        1064       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   ~$График. EXCEL ONLY..xlsm   Tue Aug 15 15:23:27 2017
+18431        1070       DENY_NONE  0x20089     RDONLY     NONE             /home/exch/klukva   ~$График. EXCEL ONLY..xlsm   Tue Aug 15 15:53:01 2017
+29467        1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/07. Июль   Tue Aug 15 16:10:41 2017
+29467        1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Рекламации/2017 г/07. Июль   Tue Aug 15 16:10:41 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CL   Tue Aug 15 12:43:10 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CL   Tue Aug 15 07:53:35 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CL   Tue Aug 15 08:42:32 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CL   Tue Aug 15 07:59:50 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8.1CL   Tue Aug 15 12:49:12 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8.1CL.cfl   Tue Aug 15 08:39:04 2017
+9027         1015       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/avanti   Папка обмена/ПОСТАВЩИКИ/АРИСТО/2017/август/ГРАНД СФ накладная.xls   Tue Aug 15 11:01:44 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8JobScheduler/exec.lck.cfl   Tue Aug 15 08:06:52 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8Log/20170804000000.lgp   Tue Aug 15 14:33:49 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CL.cfl   Tue Aug 15 08:11:26 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CL.cfl   Tue Aug 15 08:41:16 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CL.cfl   Tue Aug 15 08:42:09 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8Log/20160603000000.lgp   Tue Aug 15 09:50:27 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8Log/20160603000000.lgp   Tue Aug 15 14:35:49 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CL.cfl   Tue Aug 15 14:33:48 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CD   Tue Aug 15 14:33:48 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 08:31:41 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Trade/1Cv8FTxt/changes20170815000000.log   Tue Aug 15 09:24:20 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА   Tue Aug 15 11:31:02 2017
+27697        1059       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА   Tue Aug 15 11:31:03 2017
+15533        1064       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА   Tue Aug 15 16:10:33 2017
+15533        1064       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   КОММЕРЧЕСКИЙ ОТДЕЛ/ДЛЯ КЛИЕНТА   Tue Aug 15 16:10:33 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8.1CL   Tue Aug 15 08:08:05 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CL.cfl   Tue Aug 15 08:04:42 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CL.cfl   Tue Aug 15 08:11:39 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CL.cfl   Tue Aug 15 08:12:20 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CD.cfl   Tue Aug 15 08:11:18 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CD.cfl   Tue Aug 15 08:41:10 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CD.cfl   Tue Aug 15 08:42:02 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL.cfl   Tue Aug 15 08:08:59 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL.cfl   Tue Aug 15 08:46:33 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL.cfl   Tue Aug 15 08:47:22 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL.cfl   Tue Aug 15 13:52:22 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Хайруллин/1Cv8tmp.1CL.cfl   Tue Aug 15 13:52:59 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CD   Tue Aug 15 14:34:40 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8.1CD   Tue Aug 15 08:08:05 2017
+5570         1026       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Екатерина/ДЮ-64 Ип Грабовский.docx   Tue Aug 15 11:21:05 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Спиридонов/1Cv8.1CD   Tue Aug 15 08:39:04 2017
+5498         1078       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/avanti   Папка обмена/Прайсы/Эликор/2017/ELIKOR прайс Гранд Альянс 08.08.2017.xls   Tue Aug 15 15:06:45 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8Log/20150818000000.lgp   Tue Aug 15 13:16:23 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Неверов/1Cv8tmp.1CD.cfl   Tue Aug 15 08:08:10 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CL   Tue Aug 15 08:04:42 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CL   Tue Aug 15 08:11:39 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CL   Tue Aug 15 08:12:20 2017
+5495         1005       DENY_NONE  0x100081    RDONLY     NONE             /home/exch/cucina   ПДО/Заказы/заявки балясин и решёток/8 Август   Tue Aug 15 13:46:48 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:08:59 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:46:33 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/1Cv8.lgf   Tue Aug 15 08:47:22 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/1Cv8.lgf   Tue Aug 15 13:52:22 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8Log/1Cv8.lgf   Tue Aug 15 13:53:00 2017
+18884        1038       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   .   Tue Aug 15 14:58:19 2017
+18884        1038       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   .   Tue Aug 15 14:58:19 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   .   Tue Aug 15 15:15:08 2017
+18431        1070       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   .   Tue Aug 15 15:15:08 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   .   Tue Aug 15 14:46:07 2017
+13835        1066       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   .   Tue Aug 15 14:46:07 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 12:43:13 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 07:53:16 2017
+4917         1011       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 07:56:40 2017
+4987         1049       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 07:58:53 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 08:42:48 2017
+5490         1069       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 08:01:12 2017
+5571         1057       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 08:04:31 2017
+5498         1078       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 13:45:42 2017
+6830         1003       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 09:29:47 2017
+7324         1006       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 08:15:44 2017
+9027         1015       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 08:34:27 2017
+6167         1067       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   TradeAvanti/1Cv8.1CL   Tue Aug 15 09:23:09 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   БП Киселев/1Cv8JobScheduler/jobs.dat.cfl   Tue Aug 15 16:11:06 2017
+3179         1017       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/cu1c   БП Киселев/1Cv8JobScheduler/exec.lck   Tue Aug 15 08:06:52 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/cu1c   ЗУП Хайруллин/1Cv8JobScheduler/jobs.dat.cfl   Tue Aug 15 16:10:59 2017
+6174         1016       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CD.cfl   Tue Aug 15 09:50:22 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Спиридонов/1Cv8.1CD.cfl   Tue Aug 15 14:35:44 2017
+21831        1065       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/cucina   ОП/Алена/менеджеры 2017 2.08.17.xls   Tue Aug 15 15:39:14 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CD.cfl   Tue Aug 15 08:04:42 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CD.cfl   Tue Aug 15 08:11:39 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Киселев/1Cv8.1CD.cfl   Tue Aug 15 08:12:20 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL   Tue Aug 15 08:08:50 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL   Tue Aug 15 08:46:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL   Tue Aug 15 08:47:14 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL   Tue Aug 15 13:52:15 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Хайруллин/1Cv8.1CL   Tue Aug 15 13:52:53 2017
+5568         1013       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CD   Tue Aug 15 15:09:58 2017
+4348         1010       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CD   Tue Aug 15 16:02:40 2017
+10157        1035       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CD   Tue Aug 15 16:05:11 2017
+4993         1061       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CD   Tue Aug 15 08:01:07 2017
+6143         1053       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/1c82   Glass/1Cv8tmp.1CD   Tue Aug 15 15:45:35 2017
+6174         1016       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CD   Tue Aug 15 09:50:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Спиридонов/1Cv8tmp.1CD   Tue Aug 15 14:35:47 2017
+5496         1022       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CL   Tue Aug 15 08:11:26 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CL   Tue Aug 15 08:41:16 2017
+3179         1017       DENY_NONE  0x2019f     RDWR       NONE             /home/db1/cu1c   БП Неверов/1Cv8tmp.1CL   Tue Aug 15 08:42:09 2017
+18388        1054       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.cgr   Tue Aug 15 14:33:44 2017
+5496         1022       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CL.cfl   Tue Aug 15 08:11:18 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CL.cfl   Tue Aug 15 08:41:10 2017
+3179         1017       DENY_NONE  0x20196     WRONLY     NONE             /home/db1/cu1c   БП Неверов/1Cv8.1CL.cfl   Tue Aug 15 08:42:02 2017
+

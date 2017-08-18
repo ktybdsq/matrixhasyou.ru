@@ -1,0 +1,33 @@
+
+Samba version 3.6.6
+PID     Username      Group         Machine                        
+-------------------------------------------------------------------
+
+Service      pid     machine       Connected at
+-------------------------------------------------------
+IPC$         6827   dimas         Tue Aug 15 08:14:09 2017
+1c82         18388   avanti-loginova  Tue Aug 15 14:33:44 2017
+Klюkva      4749   klukva-sklad  Tue Aug 15 21:51:59 2017
+
+Locked files:
+Pid          Uid        DenyMode   Access      R/W        Oplock           SharePath   Name   Time
+--------------------------------------------------------------------------------------------------
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8Log/1Cv8.lgf   Tue Aug 15 14:33:48 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CL   Tue Aug 15 14:33:48 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CL   Tue Aug 15 14:33:44 2017
+4749         1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 21:52:04 2017
+4749         1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г/07. Июль   Tue Aug 15 21:52:04 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CD.cfl   Tue Aug 15 14:33:48 2017
+4749         1074       DENY_WRITE 0x3019f     RDWR       EXCLUSIVE+BATCH  /home/exch/klukva   Заказы/2017г/07. Июль/~$Д-07.162.73в (АСТ ГРУПП).xlsx   Tue Aug 15 21:52:17 2017
+4749         1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 21:52:00 2017
+4749         1074       DENY_NONE  0x81        RDONLY     NONE             /home/exch/klukva   Заказы/2017г   Tue Aug 15 21:52:00 2017
+4749         1074       DENY_WRITE 0x2019f     RDWR       NONE             /home/exch/klukva   Заказы/2017г/07. Июль/Д-07.162.73в (АСТ ГРУПП).xlsx   Tue Aug 15 21:52:17 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.cgr.cfl   Tue Aug 15 14:33:44 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CL.cfl   Tue Aug 15 14:33:44 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CD.cfl   Tue Aug 15 14:33:44 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8Log/20170804000000.lgp   Tue Aug 15 14:33:49 2017
+18388        1054       DENY_NONE  0x20196     WRONLY     EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CL.cfl   Tue Aug 15 14:33:48 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8tmp.1CD   Tue Aug 15 14:33:48 2017
+18388        1054       DENY_NONE  0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.1CD   Tue Aug 15 14:34:40 2017
+18388        1054       DENY_ALL   0x2019f     RDWR       EXCLUSIVE+BATCH  /home/db1/1c82   Клюква Новая 04.08.17/1Cv8.cgr   Tue Aug 15 14:33:44 2017
+
