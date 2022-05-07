@@ -1,6 +1,0 @@
-#
-#
-#
-
-
-smbstatus -L | grep График.\ EXCEL\ ONLY..xlsm | grep -Eo '[1][0-9][0-9][0-9]'
